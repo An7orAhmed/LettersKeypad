@@ -1,0 +1,11 @@
+
+LettersKeypad KEYWORD3
+
+setUpdateTime KEYWORD2
+getRawLetter  KEYWORD2
+getLetter     KEYWORD2
+getMode	      KEYWORD2
+
+CAPSLOCK_OFF  KEYWORD1
+CAPSLOCK_ON   KEYWORD1
+NUMBER		  KEYWORD1
