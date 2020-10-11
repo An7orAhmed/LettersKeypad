@@ -1,4 +1,4 @@
-#include "src/LettersKeypad/LettersKeypad.h"
+#include <LettersKeypad.h>
 
 byte col[] = {8, 7, 6};
 byte row[] = {12, 11, 10, 9};
