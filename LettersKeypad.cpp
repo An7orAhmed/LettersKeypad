@@ -24,6 +24,7 @@ static const char LettersKeypad::letters[12][4] = {
 
 LettersKeypad::LettersKeypad(byte *r, byte *c) : Keypad(makeKeymap(map), r, c, _ROWS, _COLS) {
 	setHoldTime(20);
+	setUpdateTime(500);
 }
 
 char LettersKeypad::getRawLetter() {
