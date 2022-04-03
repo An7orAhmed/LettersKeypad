@@ -1,7 +1,7 @@
 
-LettersKeypad	KEYWORD1
+LettersKeypad KEYWORD1
 
-setUpdateTime	KEYWORD2
+setUpdateTime KEYWORD2
 getRawLetter  KEYWORD2
 getLetter     KEYWORD2
 getMode       KEYWORD2
