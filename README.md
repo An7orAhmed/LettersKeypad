@@ -12,5 +12,5 @@ byte row[] = {12, 11, 10, 9};<br>
 LettersKeypad keypad(row, col);<br>
 
 ### 2. Set key release interval:
----------------------
+
 keypad.setUpdateTime(2000);  // key will be print after 2sec
